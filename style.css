@@ -1,0 +1,24 @@
+*{
+    padding: 15px;
+    margin: 10px;
+}
+#header_website{
+
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+    padding-left:30px;
+    padding-right: 30px;
+    text-align: center;
+    background: purple;
+   
+};
+
+
+#para_text{
+background: blue;
+font-size: 20px;
+padding: 15px;
+margin: 15px;
+};
+
